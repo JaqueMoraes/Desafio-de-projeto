@@ -1,6 +1,4 @@
 # Desafio-de-projeto Git/GitHub
-Um sistema de versionamento de código distribuído
-
 ## Links úteis 
 https://pt.wikipedia.org/wiki/Git
 
