@@ -1,4 +1,6 @@
-# Um sistema de versionamento de código distribuído 
+# Desafio-de-projeto Git/GitHub
+
+## Um sistema de versionamento de código distribuído 
 
 # :computer:
 
@@ -44,7 +46,13 @@ Por fim, para quem está iniciando os estudos em desenvolvimento e programação
 
 ​        Estamos no caminho certo para isso. 
 
+## Links úteis 
 
+https://pt.wikipedia.org/wiki/Git
 
+https://www.atlassian.com/br/git/tutorials/what-is-git
 
+https://git-scm.com/about
+
+https://git-scm.com/
 
